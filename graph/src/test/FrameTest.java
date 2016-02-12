@@ -7,5 +7,6 @@ public class FrameTest
     public static void main(String[] args)
     {
         AppFrame app = new AppFrame("test", 200, 200);
+        //bad comit
     }
 }
